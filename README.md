@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)
+![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
 
 
 <h1 align="center">Welcome to my GitHub realm!👋🌟 I'm Aditi Sharma</h1>
