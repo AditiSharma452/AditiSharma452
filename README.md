@@ -14,7 +14,7 @@
 
 - **📫aditi.sharma04052002@gmail.com**
 
-- **⚡Turning caffeine into code, one commit at a time! ☕💻**
+- **⚡Turning caffeine into code, one commit at a time! ☕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
