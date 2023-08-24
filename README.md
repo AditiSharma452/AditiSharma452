@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
 
 
-<h1 align="center">Welcome to my GitHub realm!👋🌟 I'm Aditi Sharma</h1>
+<h1 align="center">Welcome to my GitHub realm!👋 I'm Aditi Sharma</h1>
 <h3 align="center">A dedicated application developer🤩 driven by a deep passion🚀 for crafting meaningful solutions.🎉</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
