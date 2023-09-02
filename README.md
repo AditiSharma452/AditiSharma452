@@ -4,6 +4,8 @@
 <h1 align="center">Welcome to my GitHub realm!👋🌟 I'm Aditi Sharma</h1>
 <h3 align="center">A dedicated application developer🤩 driven by a deep passion🚀 for crafting meaningful solutions.🎉</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
+<p align="left"> <a href="https://twitter.com/aditiii01" target="blank"><img src="https://img.shields.io/twitter/follow/aditiii01?logo=twitter&style=for-the-badge" alt="aditiii01" /></a> </p>
+
 
 
 
